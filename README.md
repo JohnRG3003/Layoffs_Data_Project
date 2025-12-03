@@ -4,8 +4,8 @@
 This project involves an end-to-end analysis of global workforce reduction trends in the technology sector (2020-2023). The goal was to clean a raw dataset of 2,300+ companies and perform Exploratory Data Analysis (EDA) to identify how economic conditions impacted different industries, funding stages, and geographic regions.
 
 ## 📂 File Structure
-* `Layoffs_Data_Cleaning.sql`: The script used to standardize data, remove duplicates using window functions, and handle null values.
-* `Exploratory_Data_Analysis.sql`: The script used for deriving insights, calculating rolling totals, and generating rankings.
+* `Data_Cleaning_Project.sql`: The script used to standardize data, remove duplicates using window functions, and handle null values.
+* `Exploratory_Data_Analysis_Project.sql`: The script used for deriving insights, calculating rolling totals, and generating rankings.
 * `layoffs.csv`: The raw dataset used for this analysis.
 
 ## 🛠️ Key SQL Techniques Used
